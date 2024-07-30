@@ -1,0 +1,31 @@
+
+
+
+footer{
+    width: 100%;
+    padding: 20px 50px;
+    display: flex;
+    justify-content: space-between;
+    background-color: #000;
+}
+footer .section{
+    width: 30%;
+}
+footer .section:nth-child(2){
+    padding-left: 40px;
+}
+footer .section h2{
+    color: #fff;
+}
+footer .section p{
+    color: #fff;
+}
+footer .section li{
+    color: #fff;
+}
+footer .section:nth-child(2) li{
+    margin: 6px 0px;
+}
+footer .section:nth-child(3) li{
+    margin: 10px 0px;
+}
